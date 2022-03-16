@@ -1,8 +1,13 @@
-.dd{
+.main{
+    border:2px solid black;
+    padding: auto;
+    margin: auto;
+    width: 820px;
+}
+.main2{
     height: 500px;
     width: 800px;
-    margin: auto;
-    /* border: 2px solid black; */
+    margin: 10px;
 }
 .centerdiv{
     text-align: center;
@@ -11,20 +16,15 @@
     width: 100%;
     height: 40%;
     border: 1px solid black;
-    /* position: relative; */
-    /* top: -10px; */
     background-color: #FF9999;
 }
-.dh{
+.TwoDiv{
     border: 1px solid black;
     width: 100%;
     height: 60%;
 }
-.proimage{
+.proFileimage{
     float: left;
-    /* position: relative;
-    top: -100px;
-    left: 1900px; */
     margin-top: -303px;
     background-color: #ECECFB;
     text-align: center;
@@ -38,5 +38,6 @@
     float: left;
     height: 100%;
     border: 1px solid black;
+    background-color: #D8DA3D;
     display: inline-block;
 }

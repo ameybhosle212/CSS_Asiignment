@@ -8,11 +8,11 @@ body{
     left: 30px;
     height: 200px;
 }
-.sta{
+.Middle{
     color: #80007E;
     position: absolute;
-    top: -10px;
-    left :280px;
+    top: 0px;
+    left :240px;
     width: 80%;
 }
 .boxes{
